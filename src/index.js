@@ -16,7 +16,7 @@ function App() {
 
 class Test extends Component {
   state = {
-    x: 10
+    x: 15
   };
 
   render() {
